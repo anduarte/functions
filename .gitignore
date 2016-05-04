@@ -1,5 +1,19 @@
 # Created by https://www.gitignore.io/api/osx,windows
 
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs
+hs_err_pid*
+
 ### OSX ###
 .DS_Store
 .AppleDouble
